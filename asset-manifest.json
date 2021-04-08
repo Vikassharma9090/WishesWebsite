@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WishesWebsite/static/css/main.f64446bf.chunk.css",
+    "main.js": "/WishesWebsite/static/js/main.1f19fd0c.chunk.js",
+    "main.js.map": "/WishesWebsite/static/js/main.1f19fd0c.chunk.js.map",
+    "runtime-main.js": "/WishesWebsite/static/js/runtime-main.48a4b3cf.js",
+    "runtime-main.js.map": "/WishesWebsite/static/js/runtime-main.48a4b3cf.js.map",
+    "static/js/2.8227d523.chunk.js": "/WishesWebsite/static/js/2.8227d523.chunk.js",
+    "static/js/2.8227d523.chunk.js.map": "/WishesWebsite/static/js/2.8227d523.chunk.js.map",
+    "index.html": "/WishesWebsite/index.html",
+    "static/css/main.f64446bf.chunk.css.map": "/WishesWebsite/static/css/main.f64446bf.chunk.css.map",
+    "static/js/2.8227d523.chunk.js.LICENSE.txt": "/WishesWebsite/static/js/2.8227d523.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a4b3cf.js",
+    "static/js/2.8227d523.chunk.js",
+    "static/css/main.f64446bf.chunk.css",
+    "static/js/main.1f19fd0c.chunk.js"
+  ]
+}
